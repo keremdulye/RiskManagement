@@ -1,0 +1,1 @@
+using BusinessPartnerA2X as service from '../../srv/external/BusinessPartnerA2X';
